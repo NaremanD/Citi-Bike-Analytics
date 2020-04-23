@@ -1,3 +1,2 @@
 # Citi-Bike-Analytics
-
-Background_img.png
+![alt text](http://url/to/Background_img.png)
