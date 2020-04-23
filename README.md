@@ -2,7 +2,7 @@
 
 <h1 align="center"> Citi Bike Analysis </h1>
 
-![alt text] https://github.com/NaremanD/Citi-Bike-Analytics/blob/master/images%20/Background_img.png
+![alt text](https://d21xlh2maitm24.cloudfront.net/nyc/Annual-Membership-Image.png?mtime=20170331121650)
 
 # Background
 **Experience NYC in a Whole New Way**
