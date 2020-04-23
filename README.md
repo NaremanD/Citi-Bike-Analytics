@@ -1,3 +1,12 @@
 # Citi-Bike-Analytics
 
-https://github.com/NaremanD/Citi-Bike-Analytics/blob/master/images%20/Background_img.png
+<h1 align="center"> Citi Bike Analysis </h1>
+<p align="center">
+  <a href="#background">Background</a> •
+  <a href="#analysis">Analysis</a> •
+  <a href="#technology-stack-used">Technology Stack Used</a>
+</p>
+
+![cove](images/Background_img.png)
+
+
