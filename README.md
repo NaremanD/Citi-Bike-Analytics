@@ -1,5 +1,3 @@
-# Citi-Bike-Analytics
-
 <h1 align="center"> Citi Bike Analysis </h1>
 <p align="center">
   <a href="#background">Background</a> •
