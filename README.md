@@ -13,10 +13,4 @@ Since 2013, the Citi Bike Program has implemented a robust infrastructure for co
 In this project, the annual report for year 2019 would be generated for city officials to publicize and improve the city program.
 
 
---
-# Technology Stack Used
-- Tableau
-- Python
-
-
 
